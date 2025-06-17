@@ -53,7 +53,7 @@ apt-get update && apt-get install -y curl nodejs npm screen && curl -O https://r
 ``` 
 
 ```
-apt-get update && apt-get install -y curl nodejs npm screen && curl -O https://raw.githubusercontent.com/pcliuhui/git_nodejs-argo/main/indexapp.js && curl -O https://raw.githubusercontent.com/pcliuhui/git_nodejs-argo/main/package.json && npm install && chmod +x indexapp.js && NAME=Google PORT=3000 screen node indexapp.js
+apt-get update && apt-get install -y curl nodejs npm screen && curl -O https://raw.githubusercontent.com/pcliuhui/git_nodejs-argo/main/indexapp.js && curl -O https://raw.githubusercontent.com/pcliuhui/git_nodejs-argo/main/packageapp.json && npm install && chmod +x indexapp.js && NAME=Google PORT=3000 screen node indexapp.js
 ``` 
   
 # 免责声明
